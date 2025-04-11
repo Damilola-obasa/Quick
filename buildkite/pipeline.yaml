@@ -1,4 +1,4 @@
 
 steps:
   - label: ":wave: Say Hello"
-    command: "echo hello dami"
+    command: "echo hello dami is good"
